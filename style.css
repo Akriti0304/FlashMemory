@@ -1,0 +1,44 @@
+body{
+    text-align:center;
+}
+
+.btn{
+    height:200px;
+    width:200px;
+    border: 15px solid black;
+    border-radius: 30%;
+    margin:20px;
+}
+
+#container{
+    display:flex;
+    justify-content: center;
+}
+
+.one{
+    background-color: rgb(196, 91, 109);
+}
+
+.two{
+    background-color: rgb(124, 124, 238);
+}
+
+.three{
+    background-color: rgb(214, 164, 70);
+}
+
+.four{
+    background-color: rgb(209, 209, 93);
+}
+
+.flash{
+    background-color:crimson;
+}
+
+.userFl{
+    background-color:greenyellow;
+}
+
+.red{
+    background-color: red;
+}
